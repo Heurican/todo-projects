@@ -6,3 +6,8 @@ interested in collaborating in one of them? feel free to dm me at bat soup#3060
 
 ## <img src='https://api.iconify.design/octicon/git-pull-request-16.svg?color=%235865f2&width=30&height=30'/> If you see an interesting project...
 Feel free to make a commit! I'll take a look ASAP and add the code.
+
+
+## <img src='https://api.iconify.design/octicon/file-code-16.svg?color=%235865f2&width=30&height=30'/> Any of these projects can be written in any language.
+
+If you'd like to start any one of these projects in this repository then you can start them in any language. Normally I'll specify what language I want to use for it so if you want to start it please use that language.
