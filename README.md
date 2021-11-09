@@ -11,3 +11,9 @@ Feel free to make a commit! I'll take a look ASAP and add the code.
 ## <img src='https://api.iconify.design/octicon/file-code-16.svg?color=%235865f2&width=30&height=30'/> Any of these projects can be written in any language.
 
 If you'd like to start any one of these projects in this repository then you can start them in any language. Normally I'll specify what language I want to use for it so if you want to start it please use that language.
+
+## <img src='https://api.iconify.design/octicon/law-16.svg?color=%235865f2&width=30&height=30'/> Lastly...
+
+The license on this repo is MIT so feel free to copy any idea in it- you don't even have to credit me. The least you can do is star the repository.
+
+### <img src='https://api.iconify.design/octicon/repo-16.svg?color=%235865f2&width=16&height=16'/> Thanks for contributing!
